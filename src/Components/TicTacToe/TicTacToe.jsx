@@ -588,7 +588,7 @@ const TicTacToe = () => {
         <p className="credits-text">Developed by Stevenkoslaz</p>
         <a
           className="credits-link"
-          href="https://github.com/stevenkoslaz"
+          href="https://github.com/stevenkoslaz/RabTacTix-Game-In-ReactJS"
           target="_blank"
           rel="noopener noreferrer"
         >
